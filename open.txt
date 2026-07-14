@@ -1,0 +1,418 @@
+
+
+open source contributor tell me what to do and how
+
+If you want to become an open-source contributor, the best approach is to start with small, consistent contributions rather than trying to make major changes immediately.
+
+Here's a practical roadmap:
+
+1. Learn the basics of Git and GitHub
+You should be comfortable with:
+
+Creating repositories
+
+Forking a project
+
+Cloning a repository
+
+Creating branches
+
+Making commits
+
+Opening Pull Requests (PRs)
+
+Resolving merge conflicts
+
+Practice by creating your own repository and making a few commits.
+
+2. Pick a programming language
+Choose one stack you enjoy, for example:
+
+Python
+
+JavaScript/TypeScript
+
+Java
+
+Go
+
+Rust
+
+C++
+
+Contributing is much easier if you're already comfortable with the language.
+
+3. Find beginner-friendly projects
+Look for issues labeled:
+
+good first issue
+
+beginner
+
+help wanted
+
+documentation
+
+Popular projects with beginner-friendly contributions include:
+
+Mozilla projects
+
+Microsoft open-source repositories
+
+Google open-source projects
+
+Kubernetes
+
+TensorFlow
+
+React
+
+4. Read the project's documentation
+Before writing code:
+
+Read the README.
+
+Read the contribution guide (CONTRIBUTING.md).
+
+Understand the coding style.
+
+Learn how to run the project locally.
+
+5. Set up the project locally
+Typically you'll:
+
+Fork the repository.
+
+Clone your fork.
+
+Install dependencies.
+
+Run the project.
+
+Run the tests.
+
+Make sure everything works before changing anything.
+
+6. Start with small contributions
+Good first contributions include:
+
+Fixing typos
+
+Improving documentation
+
+Updating examples
+
+Fixing small bugs
+
+Adding tests
+
+Improving error messages
+
+These help you learn the workflow without needing deep knowledge of the codebase.
+
+7. Work on an issue
+When you find an issue:
+
+Read it carefully.
+
+Comment that you'd like to work on it (if the project requests this).
+
+Create a new branch.
+
+Make the changes.
+
+Test your changes.
+
+Commit your work.
+
+Push your branch.
+
+Open a Pull Request.
+
+8. Respond to code review
+Maintainers may ask for changes. This is a normal part of the process:
+
+Update your code.
+
+Push new commits.
+
+Answer questions politely.
+
+Learn from the feedback.
+
+9. Build your profile
+Aim for consistent contributions rather than a large number all at once. Over time you'll build:
+
+A strong GitHub profile
+
+Experience reading others' code
+
+Better coding practices
+
+Collaboration skills
+
+Helpful resources
+GitHub Docs
+
+First Contributions (hands-on tutorial)
+
+Good First Issue (discover beginner issues)
+
+Up For Grabs (open-source projects)
+
+A 30-day beginner plan
+Week	Goal
+1	Learn Git, GitHub, branching, commits, and pull requests.
+2	Contribute to documentation or fix a typo in an open-source project.
+3	Fix a small bug or add a test case.
+4	Submit 2–3 pull requests and learn from the review process.
+If your goal is to contribute professionally (for internships or jobs), focus on one ecosystem—such as Python, JavaScript, or Java—and make regular contributions to a few active projects. A handful of meaningful merged pull requests often demonstrates more than many trivial contributions across dozens of repositories.
+
+
+any thing like google summer of code are they open so that i can do 
+
+Yes, you can participate in GirlScript Summer of Code (GSSoC) regardless of gender—the program is open to everyone. 
+
+However, you can no longer apply as a new contributor for GSSoC 2026. The application and selection process took place earlier in the year, and the contribution period is already underway (May–August 2026). 
+
+What you can do now:
+
+Start contributing to open-source projects on GitHub.
+
+Build your GitHub profile with merged pull requests.
+
+Follow the next GSSoC announcements so you can apply when registrations open for the next edition.
+
+You can keep track of updates here:
+
+GSSoC Official Website
+
+If your goal is to get selected for the next GSSoC, I can recommend 10 beginner-friendly GitHub repositories where you can start contributing this week and build a strong profile before applications open.
+
+
+is there any particular time to apply for this
+
+Yes. GSSoC has a fixed annual application window, so you need to apply during that period.
+
+For GSSoC 2026, the timeline was approximately:
+
+January: Program announcement
+
+Late January to March: Applications open
+
+April: Selection and onboarding
+
+May–August: Contribution period
+
+September: Results and certificates 
+
+Since today is July 8, 2026, the application window has already closed for this year's program, and the contribution period is currently in progress. 
+
+When should you prepare?
+A good schedule is:
+
+November–December: Start contributing to open-source projects.
+
+January: Watch for the official GSSoC announcement.
+
+Late January or early February: Submit your application as soon as registrations open.
+
+Before applying: Have at least a few merged pull requests on GitHub to strengthen your profile.
+
+You can monitor announcements on the official GSSoC website:
+
+GirlScript Summer of Code
+
+If you're aiming for GSSoC 2027, you have several months to build a strong GitHub profile. I can also suggest beginner-friendly repositories where you can start contributing now so you're well prepared when applications open.
+
+
+tell me the websites that are currently accepting applications
+
+As of July 8, 2026, there are very few major open-source mentorship programs with applications open right now. Here's the current status:
+
+Program	Applications Open Now?	Notes
+Outreachy (December 2026 cohort)	🟡 Opening soon (early August 2026)	Initial applications are expected to open in early August. 
+LFX Mentorship	✅ Yes (depends on project)	New mentorships are posted throughout the year, so you can apply whenever a suitable project is accepting applications. 
+MLH Fellowship	🟡 Check current cohort	Applications open several times each year, depending on the fellowship track. 
+Hacktoberfest 2026	❌ Not yet	Registration starts closer to October. 
+Google Summer of Code 2026	❌ Closed	Next application cycle is in 2027. 
+GirlScript Summer of Code 2026	❌ Closed	Current contribution period is already underway. 
+The best places to check right now are:
+
+LFX Mentorship: https://lfx.linuxfoundation.org/tools/mentorship/
+
+MLH Fellowship: https://fellowship.mlh.io/
+
+Outreachy: https://www.outreachy.org/
+
+If you're looking for a paid program that you can apply to this month, LFX Mentorship is your best option because projects open at different times throughout the year. 
+
+If you're a college student, tell me:
+
+your year (1st/2nd/3rd/4th),
+
+your programming language (Python, Java, C++, JavaScript, etc.), and
+
+whether you want paid only or both paid and unpaid opportunities.
+
+I can then recommend programs and projects that fit your profile.
+
+
+3 rd python both
+
+Since you're a 3rd-year student and you know Python, you're in a great position to prepare for both internships and open-source programs.
+
+Here are the opportunities I'd prioritize:
+
+🟢 1. LFX Mentorship (Highest priority)
+Paid: Yes ($3,000–$6,600 depending on the project)
+
+Eligibility: Open to students and professionals.
+
+Tech: Python, Kubernetes, Linux, Cloud, AI, DevOps, Blockchain.
+
+Next applications: The Fall 2026 mentorships are expected to open in early August 2026, with projects posted in mid-July. 
+
+Website:
+
+https://lfx.linuxfoundation.org/tools/mentorship/
+
+🟢 2. MLH Fellowship
+Paid: Educational stipend
+
+Eligibility: Students and recent graduates
+
+Tech: Python, JavaScript, Go, Open Source
+
+Multiple cohorts throughout the year, so check for the next intake. 
+
+Website:
+
+https://fellowship.mlh.io/
+
+🟢 3. Outreachy
+Paid: Around USD 7,000
+
+Note: Outreachy has specific eligibility requirements focused on people affected by underrepresentation in tech.
+
+Next application window: Expected in early August 2026 for the December 2026 internship cohort. 
+
+Website:
+
+https://www.outreachy.org/
+
+🟢 4. Djangonaut Space
+If you enjoy Python and the Django ecosystem:
+
+Free mentorship
+
+Great for first-time contributors
+
+Multiple sessions each year. 
+
+Website:
+
+https://djangonaut.space/
+
+What you should do during July
+Learn Git and GitHub well.
+
+Make 5–10 merged pull requests.
+
+Build one Python project.
+
+Contribute to a Python open-source project.
+
+Beginner-friendly Python projects
+Django
+
+Flask
+
+FastAPI
+
+Jupyter
+
+pandas
+
+pytest
+
+My recommendation for you
+If I were planning the next 2–3 months for a 3rd-year Python student, I would aim for:
+
+August: Apply to LFX Mentorship if a suitable Python-related project is available.
+
+August: Apply to Outreachy if you meet the eligibility criteria.
+
+Whenever the next cohort opens: Apply to MLH Fellowship.
+
+Early 2027: Prepare for Google Summer of Code 2027 and GirlScript Summer of Code 2027.
+
+This combination gives you both immediate opportunities and a strong path toward the larger programs next year.
+
+
+If I were planning the next 2–3 months for a 3rd-year Python student, I would aim for:
+
+August: Apply to LFX Mentorship if a suitable Python-related project is available.
+August: Apply to Outreachy if you meet the eligibility criteria.
+Whenever the next cohort opens: Apply to MLH Fellowship.
+Early 2027: Prepare for Google Summer of Code 2027 and GirlScript Summer of Code 2027. can i apply to these even if i dont know anything
+
+Yes, you can apply, but whether you're selected depends on the program.
+
+Here's a realistic breakdown:
+
+Program	Can you apply with little experience?	Can you get selected without open-source experience?
+LFX Mentorship	✅ Yes	⚠️ Unlikely unless you demonstrate relevant skills or contributions.
+Outreachy	✅ Yes	✅ Yes, if you complete the required contribution period and meet the eligibility criteria.
+MLH Fellowship	✅ Yes	✅ Possible if you have solid programming fundamentals and projects.
+Google Summer of Code	✅ Yes	⚠️ Possible, but most accepted applicants have prior contributions to the organization they apply to.
+GirlScript Summer of Code	✅ Yes	✅ Yes; it's designed to be beginner-friendly.
+The key point is that "not knowing anything" doesn't mean you have no chance—but if you literally have no Git, GitHub, or coding experience, you're unlikely to be selected for competitive programs right away.
+
+For someone in your position (3rd year, Python), I'd suggest spending the next 6–8 weeks building the basics:
+
+Week 1
+
+Learn Git and GitHub.
+
+Learn how to fork repositories, create branches, commit changes, and open pull requests.
+
+Week 2
+
+Build a small Python project, such as:
+
+A to-do list app
+
+A weather app
+
+A file organizer
+
+A simple web scraper
+
+Weeks 3–4
+
+Make your first open-source contributions:
+
+Fix documentation.
+
+Correct typos.
+
+Add or improve tests.
+
+Fix a small bug.
+
+Month 2
+
+Aim for 5–10 merged pull requests.
+
+Become familiar with one open-source Python project.
+
+At that point, you'll have a much stronger application for programs like LFX, MLH, and GSoC.
+
+Since you already know Python, you're not starting from zero. The biggest new skills are learning the Git/GitHub workflow and how to collaborate on existing projects.
+
+If you're willing to spend 1–2 hours a day, I can also create a 60-day roadmap that takes you from beginner to being ready to apply for these programs, with daily tasks and free resources.
+
+
+
+Voice
